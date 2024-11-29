@@ -5,3 +5,10 @@
 //Prima di partire a scrivere codice poniamoci qualche domanda:
 //Come faccio a sapere se un numero è divisibile per?
 //Abbiamo visto qualcosa di particolare che possiamo usare?
+
+//Faccio numerare i da 1 al 100
+for (let i = 1; i <= 100; i++) 
+     console.log(i);
+
+
+    
